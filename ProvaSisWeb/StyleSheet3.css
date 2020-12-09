@@ -1,0 +1,24 @@
+﻿#Butt1, #Butt2, #Butt3, #Butt4 {
+    background-color: darkslateblue;
+    border-color: whitesmoke;
+    border-style: double;
+    color: whitesmoke;
+    border-radius: 10px;
+    font-family: 'MS Gothic';
+    font-weight: bold;
+    font-size: 20px;
+}
+#Butt1:focus, #Butt2:focus, #Butt3:focus, #Butt4:focus{
+    opacity: 1.0;
+    background-color: darkgoldenrod;
+    border-color: yellow;
+    color: yellow;
+}
+
+#.fake {
+    opacity: 0.4;
+}
+
+.fake:hover {
+    opacity: 1;
+}

@@ -1,0 +1,177 @@
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.dll.config
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.pdb
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.exe
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.exe.config
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.rsp
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.exe
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.exe.config
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.rsp
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Console.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.exe
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.rsp
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csprojAssemblyReference.cache
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csproj.CopyComplete
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.dll
+C:\Users\Rodrigao\3D Objects\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.pdb
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csprojAssemblyReference.cache
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csproj.CoreCompileInputs.cache
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.pdb
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.dll.config
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.pdb
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.exe
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.exe.config
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.rsp
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.exe
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.exe.config
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.rsp
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.AppContext.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Console.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.exe
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.exe.config
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.rsp
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vsilv\Desktop\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csproj.CopyComplete
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.dll.config
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\ProvaSisWeb.pdb
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.exe
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.exe.config
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csc.rsp
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.exe
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.exe.config
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\csi.rsp
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Console.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.exe
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\vbc.rsp
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csprojAssemblyReference.cache
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.csproj.CopyComplete
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.dll
+C:\Users\Rodrigao\Music\ProvaSisWeb\ProvaSisWeb\obj\Debug\ProvaSisWeb.pdb

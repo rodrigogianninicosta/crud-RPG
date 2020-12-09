@@ -1,0 +1,45 @@
+﻿#Button2, #Button3, #Button4, #Button5, #Button6, #Button7 {
+    background-color: transparent;
+    border-color: whitesmoke;
+    border-style: dotted;
+    color: whitesmoke;
+    border-radius: 10px;
+    font-family: 'MS Gothic';
+    font-weight:bold;
+    font-size: 20px;
+}
+#Button1 {
+    background-color: transparent;
+    border-color: red;
+    border-style: dotted;
+    color: red;
+    border-radius: 10px;
+    font-family: 'MS Gothic';
+    font-weight: bold;
+    font-size: 20px;
+}
+#Button1b {
+    background-color: transparent;
+    border-color: green;
+    border-style: dotted;
+    color: green;
+    border-radius: 10px;
+    font-family: 'MS Gothic';
+    font-weight: bold;
+    font-size: 20px;
+}
+.fade {
+    opacity: 0.6;
+}
+
+.fade:hover {
+    opacity: 1;
+}
+
+#Button1:focus, #Button1b:focus, #Button2:focus, #Button3:focus, #Button4:focus, #Button5:focus, #Button6:focus {
+    opacity: 1;
+    background-color: darkslateblue;
+    border-color: yellow;
+    color: yellow;
+    border-style: double;
+}

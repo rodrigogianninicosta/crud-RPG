@@ -1,0 +1,22 @@
+﻿#TextBox1, #TextBox2, #TextBox3, #TextBox4 {
+    border-radius: 10px;
+    font-family: 'MS Gothic';
+    font-weight: bold;
+    font-size: 20px;
+    opacity: 0.5;
+    text-align: center;
+}
+    #TextBox1:focus, #TextBox2:focus, #TextBox3:focus, #TextBox4:focus {
+        opacity: 1;
+    }
+#ListBox1 {
+    border-radius: 10px;
+    font-family: 'MS Gothic';
+    font-weight: bold;
+    font-size: 20px;
+    opacity: 0.7;
+    background-color: darkslateblue;
+    border-color: darkgoldenrod;
+    color: darkgoldenrod;
+    border-style: double;
+}
